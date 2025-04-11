@@ -1,5 +1,8 @@
 <h1>Olá, me chamo Henrique</h1>
 
+![GitHub followers](https://img.shields.io/github/followers/Rickzinho3?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Rickzinho3?style=social)
+
 <div>
 <a href="https://github.com/Rickzinho3">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickzinho3&layout=compact&langs_count=7&theme=dracula"/>
